@@ -12,7 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">    
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
   <br>
   
@@ -24,6 +25,26 @@
 <a href="https://www.linkedin.com/in/nathan-t-7004b013b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
 
-  ![Snake animation](https://github.com/nathantagino/nathantagino/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/nathantagino/nathantagino/blob/output/github-contribution-grid-snake.svg)
+    
+    
   
 </div>
+  <h3> Minha Formação Acadêmica </h3>
+<ul>
+<li>Engenharia da Computação - Universidade São Francisco / 5/10 semestres (Conclusão em 2023). </li>
+<li>Tecnólogo em Informática para a Internet - Etec Bartolomeu Bueno da Silva / Concluído em 2017. </li>
+</ul>
+  <h3> Meus Cursos </h3>
+<ul>
+<li>Fullstack Developer - Santander / DIO. </li>
+<li>Python - Coursera.</li>
+<li>Udemy 
+<ul>
+<li>Lógica de Programação.</li>
+<li>Linux.</li>
+</ul>
+</li>
+</ul>
+ 
+ 
