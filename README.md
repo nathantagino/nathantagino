@@ -33,7 +33,7 @@
 </div>
   <h3> Minha Formação Acadêmica </h3>
 <ul>
-<li>Engenharia da Computação - Universidade São Francisco / 5/10 semestres (Conclusão em 2023). </li>
+<li>Engenharia da Computação - Universidade São Francisco / 6/10 semestres (Conclusão em 2023). </li>
 <li>Tecnólogo em Informática para a Internet - Etec Bartolomeu Bueno da Silva / Concluído em 2017. </li>
 </ul>
   <h3> Meus Cursos </h3>
