@@ -37,16 +37,5 @@
 <li>Tecnólogo em Mecatrônica - SENAI - Bragança Paulista / Concluído em 2021. </li>
 <li>Tecnólogo em Informática para a Internet - Etec Bartolomeu Bueno da Silva / Concluído em 2017. </li>
 </ul>
-  <h3> Meus Cursos </h3>
-<ul>
-<li>IOT - Cisco. </li>
-<li>Python - Coursera.</li>
-<li>Udemy 
-<ul>
-<li>Lógica de Programação.</li>
-<li>Linux.</li>
-</ul>
-</li>
-</ul>
  
  
