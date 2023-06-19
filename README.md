@@ -31,7 +31,7 @@
 </div>
   <h3> Minha Formação Acadêmica </h3>
 <ul>
-<li>Engenharia da Computação - Universidade São Francisco / 8/10 semestres (Conclusão em 2023). </li>
+<li>Engenharia da Computação - Universidade São Francisco / 9/10 semestres (Conclusão em 2023). </li>
 <li>Tecnólogo em Mecatrônica - SENAI - Bragança Paulista / Concluído em 2021. </li>
 <li>Tecnólogo em Informática para a Internet - Etec Bartolomeu Bueno da Silva / Concluído em 2017. </li>
 </ul>
