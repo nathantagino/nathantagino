@@ -31,7 +31,7 @@
 </div>
   <h3> Minha Formação Acadêmica </h3>
 <ul>
-<li>Pós Graduação em Redes, Datacenters e Servidores -   Universidade São Francisco (2024 / 2025). </li>
+<li>Pós Graduação em Cybersegurança -   Universidade São Francisco (2024 / 2025). </li>
 <li>Engenharia de Software -   Universidade São Francisco (2024 / 2028). </li>
 <li>Engenharia da Computação - Universidade São Francisco (2024). </li>
 <li>Tecnólogo em Mecatrônica - SENAI - Bragança Paulista (2021). </li>
